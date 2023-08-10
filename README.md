@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Anderson</h1>
-<h3 align="center">Apaixonado por tecnologia</h3>
+<h1 align="center">Olá 👋, eu me chamo Anderson Barbosa</h1>
+<h3 align="center">Sou apaixonado por programação front-End. <br>Atualmente estou aprendendo javaScript com o instrutor rodolfo Mori pelo curso DevClub </h3>
 
-- 🌱 Atualmente estou aprendendo **JavaScript | React | NodeJs**
+
 
 - Você me acha através do email **Andy.21@outlook.com.br**
 
