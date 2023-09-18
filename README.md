@@ -1,9 +1,11 @@
 <h1 align="center">Olá 👋, eu me chamo Anderson Barbosa</h1>
-<h3 align="center">Sou apaixonado por programação front-End. <br>Atualmente estou aprendendo javaScript com o instrutor rodolfo Mori pelo curso DevClub </h3>
+<h3 align="center">Sou estudante de programação. E atualmente estou fazendo o Curso Superior de Tecnologia, Desenvolvedor Full Stack DevClub.<br>
+  com o mentor Rodolfo Mori. Aprimorando meus conhecimentos e aprendendo cada vez mais.<br>
+  Desenvolvendo Projetos com as tecnologias html |  CSS | JavaScript </h3>
 
 
 
-- Você me acha através do email **Andy.21@outlook.com.br**
+- Você me encontra através do email **Andy.21@outlook.com.br**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
