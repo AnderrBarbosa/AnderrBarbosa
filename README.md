@@ -1,5 +1,5 @@
-<h1 align="center">Olá 👋, eu me chamo Anderson Barbosa</h1>
-<h3 align="center">Sou estudante de programação. E atualmente estou fazendo o Curso Superior de Tecnologia, Desenvolvedor Full Stack DevClub.<br>
+<h1 font-family: 'Open Sans', sans-serif; >Olá 👋, eu me chamo Anderson Barbosa</h1>
+<h3>Sou estudante de programação. E atualmente estou fazendo o Curso Superior de Tecnologia, Desenvolvedor Full Stack DevClub.<br>
   com o mentor Rodolfo Mori. Aprimorando meus conhecimentos e aprendendo cada vez mais.<br>
   Desenvolvendo Projetos com as tecnologias html |  CSS | JavaScript </h3>
 
