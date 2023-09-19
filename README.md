@@ -3,12 +3,12 @@
   com o mentor Rodolfo Mori. Sempre evoluindo e aprimorando meus conhecimentos, aprendendo cada vez mais.<br>
   Desenvolvendo Projetos com as tecnologias html |  CSS | JavaScript </p>
   <br>
-Você me encontra através do email **Andy.21@outlook.com.br**
+Você me encontra através do email: Andy.21@outlook.com.br
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.instagram.com/derson.26/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="@derson.26" /></a>
-<a href="linkedin.com/in/anderson-barbosa-b4572725a" target="blank"> <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="andersonBarbosa"/></a>
+<a href="https://www.linkedin.com/in/anderson-barbosa-b4572725a/" target="blank"> <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="andersonBarbosa"/></a>
 </p
 
 <h3 align="left">Languages and Tools:</h3>
