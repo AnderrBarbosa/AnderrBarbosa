@@ -1,14 +1,14 @@
 <h3>Olá 👋, eu me chamo Anderson Barbosa</h1>
 <p>Desenvolvedor Front-End. Atualmente estou realizando o Curso Superior de Tecnologia Desenvolvedor Full Stack DevClub.<br>
   com o mentor Rodolfo Mori. Sempre evoluindo e aprimorando meus conhecimentos, aprendendo cada vez mais.<br>
-  Desenvolvendo Projetos com as tecnologias html |  CSS | JavaScript </p>
+  Desenvolvendo Projetos com as tecnologias html |  CSS | JavaScript. </p>
   <br>
 Você me encontra através do email: Andy.21@outlook.com.br
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.instagram.com/derson.26/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="@derson.26" /></a>
-<a href="www.linkedin.com/in/anderson-barbosa2532" target=""blank <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="andersonBarbosa"/></a> 
+<a href="www.linkedin.com/in/anderson-barbosa2532" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="andersonBarbosa"/></a> 
 </p
 <br>
 
