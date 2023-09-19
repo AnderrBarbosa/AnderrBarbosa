@@ -1,7 +1,7 @@
 <h3>Olá 👋, eu me chamo Anderson Barbosa</h1>
-<p>Desenvolvedor Front-End. Atualmente estou realizando o Curso Superior de Tecnologia Desenvolvedor Full Stack DevClub.<br>
+<p>Desenvolvedor Front-End. Atualmente estou realizando o Curso Superior de Tecnologia Desenvolvedor Full Stack DevClub,<br>
   com o mentor Rodolfo Mori. Sempre evoluindo e aprimorando meus conhecimentos, aprendendo cada vez mais.<br>
-  Desenvolvendo Projetos com as tecnologias html |  CSS | JavaScript. </p>
+  Desenvolvendo Projetos com as tecnologias HTML |  CSS | JavaScript. </p>
   <br>
 Você me encontra através do email: Andy.21@outlook.com.br
 
