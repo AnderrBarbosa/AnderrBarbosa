@@ -10,7 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/@derson.26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@derson.26" height="20" width="30" /></a>
-<a href="https://www.linkedin.com/in/anderson-barbosa-b4572725a/" target="blank"> <img align="center" src="https://www.linkedin.com/in/anderson-barbosa-b4572725a/" alt="andersonBarbosa" height="20" width="30"/></a>
+<a href="linkedin.com/in/anderson-barbosa-b4572725a" target="blank"> <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="andersonBarbosa" height="20" width="30"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
